@@ -19,7 +19,7 @@ At the end of this session, you will know how to
 
 *Note: if you see code that's unfamiliar to you, look up for the documentation, and try to understand what it does.*
 
-## :hammer_and_wrench: Pre-Work
+## :hammer_and_wrench: Pre-Work.
 
 1. activate your `conda` environment; replace `py39_12` with the name of your `conda` environment (`conda env list` to see all available environments)
     ```
